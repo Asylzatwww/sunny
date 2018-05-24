@@ -47,7 +47,7 @@ foreach($model as $current){
     </div>";
 }   
 
-$this->title = 'DNS ' . end($breadCrumbs);
+$this->title = 'Sunny ' . end($breadCrumbs);
 
 
 
